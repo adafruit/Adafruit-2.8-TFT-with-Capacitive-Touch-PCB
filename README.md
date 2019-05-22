@@ -1,5 +1,5 @@
 ## Adafruit 2.8 TFT with Capacitive Touch PCB
-<a href="http://www.adafruit.com/products/1944"><img src="assets/image.jpg?raw=true" width="500px"><br/>
+<a href="http://www.adafruit.com/products/2090"><img src="assets/image.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
 Add some jazz & pizazz to your project with a color capactive touchscreen LCD. This TFT display is big (2.8" diagonal) bright (4 white-LED backlight) and colorful! 240x320 pixels with individual RGB pixel control, this has way more resolution than a black and white 128x64 display. As a bonus, this display has a capacitive single-touch touchscreen attached to it already, so you can detect finger presses anywhere on the screen. (We also have a resistive touchscreen version of this display breakout)
